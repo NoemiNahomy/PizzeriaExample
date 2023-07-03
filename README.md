@@ -1,6 +1,11 @@
 #Practica de patrones de diseño
 
 ###Lista de endpoints disponibles
+Patrones usados 
+*Builder
+*Factory
+*Singleton
+*Strategy
 
 - endpoints:
 
